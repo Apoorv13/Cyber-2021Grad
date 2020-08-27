@@ -28,4 +28,7 @@ You can check out process status for various companies (Crowd Sourced) [here](ht
 |Asana|San Francisco|4+|Infrastructure (AWS)|[Security Engineer](https://boards.greenhouse.io/asana/jobs/1930670?gh_src=89bd80a91)|
 |Zoom|San Jose, Denver | 5 | Tools | [Security Engineer - Tools](https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/San-Jose-CA/Security-Engineer--tools-_R689-1)|
 |Bloomberg|New York City| 1 - 3 | Penetration Testing | [Security Engineer - Penetration Testing](https://careers.bloomberg.com/job/detail/80715)|
+|Lyft|San Francisco, CA|1-3|Compliance|[Privacy Analyst](https://boards.greenhouse.io/embed/job_app?token=4677817002&gh_src=uwvxb4jc2&s=LinkedIn&source=LinkedIn)|
+|Goldman Sachs|Multiple|New Grad|Multiple - Security|[New Analyst](https://goldmansachs.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-1774293/candidate/so/pm/1/pl/1/opp/1-New-Analyst-New-Associate-Full-time-roles/en-GB)|
+
 
