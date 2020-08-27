@@ -9,8 +9,12 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 
 **Contribute by making a pull request or using [this Google Form](https://forms.gle/RwVw8jk7dQuK7tUh7)!**
 
+You can check out process status for various companies (Crowd Sourced) [here](https://docs.google.com/spreadsheets/d/1KyHBRVw7PUy0RKciFmAco-vgj_DSMQDf5fZdsggkqFQ/edit?usp=sharing)
+**Contribute to this list using [this Google Form](https://forms.gle/WpCKUfUTMX81s4b16)!**
+
 ## The List
 
 | Name  |  Location |  Experience / Type | Roles | Domains |
 | --- |-----|-----| --- | --- |
-|[Amazon](https://www.amazon.jobs/en/jobs/1229110/security-engineer-2021-united-states) | Seattle/Bellevue, WA, Nashville, TN; Austin, TX; Greater Bay Area, CA; DC Metro Area; Denver, CO; Detroit, MI; Greater Boston Area, MA; Greater Denver Area, CO; Greater Los Angeles Area, CA; Greater New York Area; Irvine, CA; Madison, WI; Minneapolis, MN; Phoenix, AZ; Portland, OR; San Diego, CA | New Grad | Security Engineer | Multiple |
+|[Amazon](https://www.amazon.jobs/en/jobs/1229110/security-engineer-2021-united-states) | Seattle/Bellevue, WA, Nashville, TN; Austin, TX; Greater Bay Area, CA; DC Metro Area; Denver, CO; Detroit, MI; Greater Boston Area, MA; Greater Denver Area, CO; Greater Los Angeles Area, CA; Greater New York Area; Irvine, CA; Madison, WI; Minneapolis, MN; Phoenix, AZ; Portland, OR; San Diego, CA | New Grad(2021) | Security Engineer | Multiple |
+|[Whisper.ai](https://whisper.ai/careers/?gh_jid=4465259002) | San Francisco | New Grad (2021) | Systems Software Engineer | System Engineering | 
