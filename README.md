@@ -15,6 +15,7 @@ You can check out process status for various companies (Crowd Sourced) [here](ht
 ## The List
 
 | Name  |  Location |  Experience / Type | Roles | Domains |
-| --- |-----|-----| --- | --- |
+| --- |---|-----| --- | --- |
 |[Amazon](https://www.amazon.jobs/en/jobs/1229110/security-engineer-2021-united-states) | Seattle/Bellevue, WA, Nashville, TN; Austin, TX; Greater Bay Area, CA; DC Metro Area; Denver, CO; Detroit, MI; Greater Boston Area, MA; Greater Denver Area, CO; Greater Los Angeles Area, CA; Greater New York Area; Irvine, CA; Madison, WI; Minneapolis, MN; Phoenix, AZ; Portland, OR; San Diego, CA | New Grad(2021) | Security Engineer | Multiple |
 |[Whisper.ai](https://whisper.ai/careers/?gh_jid=4465259002) | San Francisco | New Grad (2021) | Systems Software Engineer | System Engineering | 
+|[TikTok](https://careers.tiktok.com/position/detail/6823748069294901512)| Mountain View | 2+ | Security / Software Engineer - Security | Detection and Response, Penetration Testing, Site Reliability, IT Security Engineer(Global)|
