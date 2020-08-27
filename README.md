@@ -25,3 +25,5 @@ You can check out process status for various companies (Crowd Sourced) [here](ht
 |BlackRock| Atlanta, US | 2+ | SOC | [Command Center Control Analyst](https://careers.blackrock.com/job/11226049/command-center-control-analyst-atlanta-ga)|
 |Qualtrics|Provo, Utah|New Grad | Application Security | [Application Security Engineer](https://boards.greenhouse.io/qualtrics/jobs/1737236)|
 |Stripe|San Francisco or Seattle, Remote | New Grad | Multiple | [Security Software Engineer](https://stripe.com/jobs/listing/backend-engineer-security-infrastructure/2301914)|
+|Asana|San Francisco|4+|Infrastructure (AWS)|[Security Engineer](https://boards.greenhouse.io/asana/jobs/1930670?gh_src=89bd80a91)|
+
