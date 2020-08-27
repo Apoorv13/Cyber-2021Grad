@@ -14,8 +14,9 @@ You can check out process status for various companies (Crowd Sourced) [here](ht
 
 ## The List
 
-| Name  |  Location |  Experience / Type | Roles | Domains |
+| Name  |  Location |  Experience / Type | Domains | Roles |
 | --- |---|-----| --- | --- |
-|[Amazon](https://www.amazon.jobs/en/jobs/1229110/security-engineer-2021-united-states) | Seattle/Bellevue, WA, Nashville, TN; Austin, TX; Greater Bay Area, CA; DC Metro Area; Denver, CO; Detroit, MI; Greater Boston Area, MA; Greater Denver Area, CO; Greater Los Angeles Area, CA; Greater New York Area; Irvine, CA; Madison, WI; Minneapolis, MN; Phoenix, AZ; Portland, OR; San Diego, CA | New Grad(2021) | Security Engineer | Multiple |
-|[Whisper.ai](https://whisper.ai/careers/?gh_jid=4465259002) | San Francisco | New Grad (2021) | Systems Software Engineer | System Engineering | 
-|[TikTok](https://careers.tiktok.com/position/detail/6823748069294901512)| Mountain View | 2+ | Security / Software Engineer - Security | Detection and Response, Penetration Testing, Site Reliability, IT Security Engineer(Global)|
+|Amazon | Seattle/Bellevue, WA, Nashville, TN; Austin, TX; Greater Bay Area, CA; DC Metro Area; Denver, CO; Detroit, MI; Greater Boston Area, MA; Greater Denver Area, CO; Greater Los Angeles Area, CA; Greater New York Area; Irvine, CA; Madison, WI; Minneapolis, MN; Phoenix, AZ; Portland, OR; San Diego, CA | New Grad(2021) | [Security Engineer](https://www.amazon.jobs/en/jobs/1229110/security-engineer-2021-united-states) | Multiple |
+|Whisper.ai | San Francisco | New Grad (2021) | [Systems Software Engineer](https://whisper.ai/careers/?gh_jid=4465259002) | System Engineering | 
+|TikTok| Mountain View | 2+ | Security / Software Engineer - Security | [Detection and Response](https://careers.tiktok.com/position/detail/6857915807416273160), [Penetration Testing](https://careers.tiktok.com/position/detail/6823748069294901512), [Site Reliability](https://careers.tiktok.com/position/detail/6759327120842819847), [IT Security Engineer(Global)](https://careers.tiktok.com/position/detail/6834345915094059277)|
+|Tesla|Palo Alto, California ; Fremont, California | 1-3 | Security Engineer, Product Security Engineer, Staff Security, Security Intelligence | [Security Intelligence Technical Investigator](https://www.tesla.com/careers/job/security-intelligencetechnicalinvestigator-64235), [Staff Security IR/Detection Engineer](https://www.tesla.com/careers/job/staff-securityir-detectionengineer-59936), [Product Security Engineer, Vehicle Software](https://www.tesla.com/careers/job/product-securityengineervehiclesoftware-54267), [Security Engineer, Fleetnet](https://www.tesla.com/careers/job/security-engineerfleetnet-68817)|
