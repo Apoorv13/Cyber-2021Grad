@@ -30,5 +30,5 @@ You can check out process status for various companies (Crowd Sourced) [here](ht
 |Bloomberg|New York City| 1 - 3 | Penetration Testing | [Security Engineer - Penetration Testing](https://careers.bloomberg.com/job/detail/80715)|
 |Lyft|San Francisco, CA|1-3|Compliance|[Privacy Analyst](https://boards.greenhouse.io/embed/job_app?token=4677817002&gh_src=uwvxb4jc2&s=LinkedIn&source=LinkedIn)|
 |Goldman Sachs|Multiple|New Grad|Multiple - Security|[New Analyst](https://goldmansachs.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-1774293/candidate/so/pm/1/pl/1/opp/1-New-Analyst-New-Associate-Full-time-roles/en-GB)|
-
+|Grant Thorton|New York|New Grad|Cybersecurity and Privacy Associate - Summer 2021|[Cybersecurity and Privacy Associate - Summer 2021](https://gt.taleo.net/careersection/gt_careersite_external/jobdetail.ftl?job=047503&lang=en&src=SNS-10068)|
 
